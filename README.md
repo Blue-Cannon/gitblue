@@ -2,9 +2,6 @@
 
 ![picture](https://raw.githubusercontent.com/Blue-Cannon/gitblue/refs/heads/blue/photos/Blue%20and%20White%20Simple%20Modern%20Banner%20Landscape_20261025_155516_0000.png)
 
-> [!IMPORTANT]
-> GitBlue is in a early stage and is under construction.
-
 ## What is GitBlue?
 
 | **GitBlue** | |
@@ -93,5 +90,8 @@ GitBlue is distributed as free and open-source software under the terms of the *
 | **Licensing Commitment** | **MIT License** with the promise *"Free/Libre Forever!"* [1, 2] | Varies (Proprietary/Freemium for GitHub; Open-core for GitLab; Community MIT/GPL for Gitea) |
 | **Development Model** | **Indie developer organization** (**Blue-Cannon** led by **Rogge Ramos**) [2] | Enterprise corporations (Microsoft, GitLab Inc.) or community steering committees |
 | **Maturity & Scale** | **Early stage** (32 commits, 1 branch, 1 tags/releases) [1, 2] | Mature, enterprise-ready platforms hosting millions of repositories |
+
+![crystal-logo](https://crystal-lang.org/assets/media/crystal_logo.svg)
+*Written On**
 
 ![camo](https://camo.githubusercontent.com/e399339d51e75457152a9f584cb0dd9c348be1a2b9df4ee1cfcf50e4640c83b8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303a3066313732612c3130303a323536336562266865696768743d3130302673656374696f6e3d666f6f746572)
